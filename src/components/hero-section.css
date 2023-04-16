@@ -1,0 +1,36 @@
+.Hero-Section {
+    text-align: center;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.Heading {
+    font-size: 2rem;
+}
+
+.Sub-Heading {
+    margin-top: .75rem;
+    font-size: 1.25rem;
+}
+
+.close-spacing {
+    letter-spacing: -3px;
+}
+
+.linear-gradient-span {
+    display: inline-block;
+    padding: 3px;
+    background-image: linear-gradient(86deg,#40eeee,#007aff 66%,#001edd);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.buttons {
+    display: grid;
+    grid-gap: 1rem;
+    padding: 2rem
+;
+    grid-template-columns: repeat(2, 1fr);
+}

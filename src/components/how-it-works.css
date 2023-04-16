@@ -1,0 +1,35 @@
+
+
+.How-Section {
+    margin-top: 25rem;
+    padding: 5rem;
+    width:100%;
+    background-image: linear-gradient(133deg,#01084e 35%,#010109 84%);
+    color: #fff;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+
+.how-it-works-heading {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+.feature-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 4rem;
+    align-items: center;
+
+    padding: 2rem;
+}
+
+.how-it-works-menu {
+    list-style-type: none;
+}
+
+.how-it-works-menu-li {
+    font-weight: 500;
+}

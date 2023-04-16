@@ -1,0 +1,36 @@
+.Navigation-Bar {
+    width: 100%;
+    display: grid;
+}
+
+.Branding {
+    padding-top: 2rem;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.Menu {
+    list-style-type: none;
+}
+
+.Menu-li {
+    font-weight: 500;
+    padding-left: 1.5rem;
+    float: left;
+}
+
+a.menu-ancher {
+    text-decoration: none;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    margin: 2rem;
+    padding: .5rem 1rem;
+    border-radius: none;
+    background-color: #007aff;
+    color: white;
+    font-weight: bold;
+    width: 140px;
+    height: 50px;
+}

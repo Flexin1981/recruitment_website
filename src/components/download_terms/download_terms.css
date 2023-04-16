@@ -1,0 +1,43 @@
+.download-menu {
+    background-color: var(--black-carbon-color);
+    height: 60px;
+    width: 250px;
+    z-index: 1000;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.38);
+    transition: 0.3s;
+    border-radius: 500px;
+    position: fixed;
+    bottom: 120px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+.download-menu a {
+    color: white !important;
+}
+
+.pdf {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #FA0F00;
+}
+
+.word {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #00A4EF;
+}

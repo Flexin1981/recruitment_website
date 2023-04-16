@@ -1,0 +1,31 @@
+
+.explainer-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100vw;
+    padding: 8rem 0;
+    justify-items: center;
+    align-items: center;
+}
+.explainer-image {
+    width: 50vw;
+}
+
+.explainer-text {
+    padding: 6rem;
+    text-align: center;
+}
+
+.explainer-header {
+    padding: 1.5rem;
+}
+
+.explainer-paragraph {
+    line-height: 1.5rem;
+}
+
+.explainer-call-to-action {
+    display: grid;
+    padding: 2rem;
+    justify-items: center;
+}

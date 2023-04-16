@@ -1,0 +1,27 @@
+.job-short {
+    width: 22rem;
+    margin: 2rem;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+
+}
+
+.job-short:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.job-short-header {
+    color: #8d8d8d;
+    line-height: 1.5rem;
+}
+
+.job-short-heading {
+    font-size: 2rem;
+}
+
+.job-short-salary {
+    line-height: 2.5rem;
+}
+
+

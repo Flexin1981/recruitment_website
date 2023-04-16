@@ -1,0 +1,9 @@
+
+.One-Off {
+    padding: 15rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 8rem;
+    justify-items: center;
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+
+
+
+.Solid-Button {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: .5rem 1rem;
+    border-radius: 20%/50%;
+    background-color: #007aff;
+    color: white;
+    font-weight: bold;
+    width: 140px;
+    height: 50px;
+    border:none;
+}

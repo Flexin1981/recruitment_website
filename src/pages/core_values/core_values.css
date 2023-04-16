@@ -1,0 +1,86 @@
+.core-values {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+    grid-template-columns: repeat(2, 1fr) ;
+}
+
+@keyframes hideshow {
+    0% { opacity: 0; }
+    25% { opacity: 0.25; }
+    50% { opacity: 0.5; }
+    75% { opacity: 0.75; }
+    100% { opacity: 1; }
+}
+
+#INNOVATION {
+    animation: hideshow 1s ease-in-out;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#FAMILY {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: .5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#INTERGRITY {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#PROGRESS {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 1.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#VALUE {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+
+#innovation-text {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 2.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#family-text {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 3s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#integrity-text {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 3.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#process-text {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 4s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+#value-text {
+    animation: hideshow 1s ease-in-out;
+    animation-delay: 4.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+

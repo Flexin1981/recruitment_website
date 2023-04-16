@@ -1,0 +1,56 @@
+
+
+.Footer {
+    display: grid;
+    padding: 40px 40px 80px 40px;
+    height: 400px;
+    width: 100vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    justify-items: center;
+    align-items: center;
+
+
+    background-color: var(--black-carbon-color);
+    color: white;
+}
+
+.contact-details {
+    display: grid;
+    padding: 2rem;
+}
+
+.address {
+    padding: .5rem;
+}
+
+.Footer a, a:visited {
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 0;
+    margin: 0;
+
+}
+
+.social-icons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.quick-links {
+    display: grid;
+    grid-gap: 1rem;
+    text-align: left;
+    justify-items: left;
+}
+
+.quick-links a, a:visited {
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 0;
+    margin: 0;
+
+}

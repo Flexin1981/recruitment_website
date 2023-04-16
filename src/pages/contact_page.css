@@ -1,0 +1,43 @@
+.contact-page {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+
+@keyframes example {
+    0%   {
+        transform: translateY(70vh);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
+.wave {
+    z-index: -1;
+    animation-name: example;
+    animation-duration: 3s;
+    margin: 0;
+    display: block;
+    position: fixed;
+    bottom: 30vh;
+}
+
+.block {
+    z-index: -1;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 30vh;
+    background-color: #a2d9ff;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+}
