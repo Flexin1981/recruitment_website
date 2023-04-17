@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recruitment_website/static/css/main.ce37c80b.css",
-    "main.js": "/recruitment_website/static/js/main.b9906666.js",
+    "main.js": "/recruitment_website/static/js/main.216d1fde.js",
     "static/js/787.71e672d5.chunk.js": "/recruitment_website/static/js/787.71e672d5.chunk.js",
     "static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.jpg": "/recruitment_website/static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.3628d34bb2d4ac00348e.jpg",
     "static/media/henry-perks-BJXAxQ1L7dI-unsplash.jpg": "/recruitment_website/static/media/henry-perks-BJXAxQ1L7dI-unsplash.0783f869e088fa81b6bd.jpg",
@@ -10,11 +10,11 @@
     "static/media/hero-bg-overlay.png": "/recruitment_website/static/media/hero-bg-overlay.d7ad6c104b662a9aca98.png",
     "index.html": "/recruitment_website/index.html",
     "main.ce37c80b.css.map": "/recruitment_website/static/css/main.ce37c80b.css.map",
-    "main.b9906666.js.map": "/recruitment_website/static/js/main.b9906666.js.map",
+    "main.216d1fde.js.map": "/recruitment_website/static/js/main.216d1fde.js.map",
     "787.71e672d5.chunk.js.map": "/recruitment_website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce37c80b.css",
-    "static/js/main.b9906666.js"
+    "static/js/main.216d1fde.js"
   ]
 }
