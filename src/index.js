@@ -11,7 +11,7 @@ import {CoreValues} from "./pages/core_values/core_values";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/recruitment_website",
         element: <HomePage/>,
     },
     {
