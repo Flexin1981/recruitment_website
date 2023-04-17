@@ -7,6 +7,12 @@ export function CoreValues(props) {
             <div className={'core-values'}>
                 <div>
                     <h1>Our Core Values</h1>
+                    <p>
+                        Our core values are the rules by which our company does business.
+                    </p>
+                    <p>
+                        We are proud of these rules and show what we are all about.
+                    </p>
                 </div>
                 <svg width="700" viewBox="0 0 749 805" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g id="core-values">
@@ -104,7 +110,6 @@ export function CoreValues(props) {
                         </filter>
                     </defs>
                 </svg>
-
             </div>
 
         </BasePage>

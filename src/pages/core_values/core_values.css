@@ -84,3 +84,11 @@
     animation-fill-mode: forwards;
 }
 
+
+.core-values h1 {
+    padding: 2rem 0;
+}
+
+.core-values p {
+    line-height: 1.5rem;
+}

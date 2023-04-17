@@ -13,8 +13,8 @@ export function Hero(props) {
                 <p>Let us head hunt top quality people for you.</p>
             </div>
             <div className={"buttons"}>
-                <SolidButton destination={"/contact"} label={"CONTACT US"}/>
                 <SolidButton destination={"/recruitment_as_a_service"} label={"LEARN MORE"}/>
+                <SolidButton destination={"/core_values"} label={"CORE VALUES"}/>
             </div>
         </div>
     );

@@ -68,7 +68,6 @@
 }
 img {
     object-fit: cover;
-    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -113,6 +112,7 @@ html, body {
 }
 
 .indent {
-    margin: 2rem;
+    margin: 1rem;
     line-height: 1.6rem;
+    font-size: small;
 }
