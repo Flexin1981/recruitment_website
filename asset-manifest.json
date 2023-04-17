@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a8f52e9.css",
-    "main.js": "/static/js/main.3df173fb.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.jpg": "/static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.3628d34bb2d4ac00348e.jpg",
-    "static/media/henry-perks-BJXAxQ1L7dI-unsplash.jpg": "/static/media/henry-perks-BJXAxQ1L7dI-unsplash.0783f869e088fa81b6bd.jpg",
-    "static/media/taylor-grote-L3qUP8MpExc-unsplash.jpg": "/static/media/taylor-grote-L3qUP8MpExc-unsplash.735d10ad191f51effaee.jpg",
-    "static/media/hero-bg.png": "/static/media/hero-bg.f522b21d66f2a93aa9c7.png",
-    "static/media/hero-bg-overlay.png": "/static/media/hero-bg-overlay.d7ad6c104b662a9aca98.png",
-    "index.html": "/index.html",
-    "main.6a8f52e9.css.map": "/static/css/main.6a8f52e9.css.map",
-    "main.3df173fb.js.map": "/static/js/main.3df173fb.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/recruitment_website/static/css/main.ce37c80b.css",
+    "main.js": "/recruitment_website/static/js/main.216d1fde.js",
+    "static/js/787.71e672d5.chunk.js": "/recruitment_website/static/js/787.71e672d5.chunk.js",
+    "static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.jpg": "/recruitment_website/static/media/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash.3628d34bb2d4ac00348e.jpg",
+    "static/media/henry-perks-BJXAxQ1L7dI-unsplash.jpg": "/recruitment_website/static/media/henry-perks-BJXAxQ1L7dI-unsplash.0783f869e088fa81b6bd.jpg",
+    "static/media/taylor-grote-L3qUP8MpExc-unsplash.jpg": "/recruitment_website/static/media/taylor-grote-L3qUP8MpExc-unsplash.735d10ad191f51effaee.jpg",
+    "static/media/hero-bg.png": "/recruitment_website/static/media/hero-bg.f522b21d66f2a93aa9c7.png",
+    "static/media/hero-bg-overlay.png": "/recruitment_website/static/media/hero-bg-overlay.d7ad6c104b662a9aca98.png",
+    "index.html": "/recruitment_website/index.html",
+    "main.ce37c80b.css.map": "/recruitment_website/static/css/main.ce37c80b.css.map",
+    "main.216d1fde.js.map": "/recruitment_website/static/js/main.216d1fde.js.map",
+    "787.71e672d5.chunk.js.map": "/recruitment_website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a8f52e9.css",
-    "static/js/main.3df173fb.js"
+    "static/css/main.ce37c80b.css",
+    "static/js/main.216d1fde.js"
   ]
 }
